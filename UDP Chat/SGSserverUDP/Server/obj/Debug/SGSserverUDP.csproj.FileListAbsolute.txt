@@ -1,0 +1,10 @@
+E:\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.exe
+E:\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.pdb
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csprojResolveAssemblyReference.cache
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+E:\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+E:\SOFT\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+E:\SOFT\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
